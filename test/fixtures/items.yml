@@ -1,0 +1,13 @@
+best_practices:
+  title: "Best Practices"
+  position: 1
+
+the_rails_way:
+  title: "The Rails Way"
+  parent: best_practices
+  position: 1
+
+iterative_development:
+  title: "Iterative Development"
+  parent: best_practices
+  position: 2
